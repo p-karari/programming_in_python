@@ -8,4 +8,4 @@ def max_num(nnum1 , num2 , num3):
     else:
         return num3
 
-print(max_num(314 , 52 , 84))
+print(max_num(34 , 52 , 84))
