@@ -1,0 +1,51 @@
+
+-- DESTINATION -- 
+Malibu beach
+-- DESTINATION -- 
+malibu beach
+-- DESTINATION -- 
+malibu beach
+-- ITEMS LIST -- 
+['swim suit']
+-- TASK LIST --  
+['laundry']
+-- DESTINATION -- 
+france
+-- ITEMS LIST -- 
+french dictionary
+-- ITEMS LIST -- 
+mobile phone
+-- ITEMS LIST -- 
+passport
+-- TASK LIST --  
+pack
+-- TASK LIST --  
+meeting with president
+-- TASK LIST --  
+make reservations
+-- DESTINATION -- 
+silicon valley
+-- ITEMS LIST -- 
+
+laptop
+camera
+charger
+work permit
+-- TASK LIST --  
+
+shopping
+attend farewell party
+book flight
+-- DESTINATION -- 
+kirinyaga
+-- DESTINATION -- 
+school
+-- ITEMS LIST -- 
+
+school bag
+
+stationery
+
+-- TASK LIST --  
+
+school assignments
